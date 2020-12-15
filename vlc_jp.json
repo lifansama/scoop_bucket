@@ -12,7 +12,7 @@
 
         "64bit": {
 
-            "url": "https://vlc.letterboxdelivery.org/vlc/last/win64/vlc-3.0.11-win64.7z",
+            "url": "https://plug-mirror.rcac.purdue.edu/vlc/vlc/last/win64/vlc-3.0.11-win64.7z",
 
             "hash": "4688e2bcc022ba32f25da9212ecfa57cda82474517de2a02b07bcfb701da6c8c"
 
@@ -20,7 +20,7 @@
 
         "32bit": {
 
-            "url": "https://vlc.letterboxdelivery.org/vlc/last/win32/vlc-3.0.11-win32.7z",
+            "url": "https://plug-mirror.rcac.purdue.edu/vlc/vlc/last/win32/vlc-3.0.11-win32.7z",
 
             "hash": "ebcc628688f66961d9c68dbacc2a0f0da8c8357d4f1f081693a217f4708d971f"
 
