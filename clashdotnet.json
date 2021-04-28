@@ -1,0 +1,21 @@
+{
+    "homepage": "https://github.com/ClashDotNetFramework/ClashDotNetFramework",
+    "description": "A Clash GUI Proxy For Windows Based On .NET 5",
+    "version": "1.0.1",
+    "license": "none",
+    "url": "https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/download/v1.0.1/Clash.NET.1.0.1.x64.7z",
+    "hash": "ed769b899ea84396bf2b6ae2848b1576280afd5cfd3f907513acdac1671a9e9a",
+    "extract_dir": "Clash.NET",
+    "shortcuts": [
+        [
+            "bamboo.exe",
+            "Bamboo"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/christopherwk210/bamboo"
+    },
+    "autoupdate": {
+        "url": "https://github.com/christopherwk210/bamboo/releases/download/v$version/bamboo-win32-ia32.zip"
+    }
+}
